@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yegonk815
 - 👀 I’m interested in learning how to code so I can automate my job more.
 - 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on nothing at the moment. I'm still learning the basics and piecing everything together.
+
 
 
 <!---
