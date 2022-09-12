@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yegonk815
+- 👋 Hi, I’m Krystal
 - 👀 I’m interested in learning how to code so I can automate my job more.
 - 🌱 I’m currently learning Python.
 
