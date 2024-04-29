@@ -1,4 +1,4 @@
-👋 Hi! I'm Krystal and I'm an accountant for a public pensions system. 
+👋 Hi! I'm Krystal and I'm an accountant for a public pension system. 
 
 ✍️ I've been self-studying computer programming concepts using Python since 2017 and am finally at the point where I'm writing code that I can use to automate my job more. 
 
