@@ -6,8 +6,6 @@
 
 🤷‍♀️ I just don't like doing mundane and/or manual accounting work. I'm automating my job so that I don't have to do the boring parts of my job. I want to do more analytical commentary, but I can only do that if I get rid of the boring stuff.
 
-👁️ All my repositories are private at this point, but as I learn how to use GitHub and get more projects that are not elementary, I'll begin creating public repositories.
-
 😃 Thanks for reading! Happy coding!
 
 <!---
